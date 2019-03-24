@@ -1,1 +1,1 @@
-module github.com/dmigwi/golang-modules/v1/printer
+module github.com/dmigwi/golang-modules/printer

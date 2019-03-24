@@ -1,1 +1,1 @@
-module github.com/dmigwi/golang-modules/v1/topup
+module github.com/dmigwi/golang-modules/topup
