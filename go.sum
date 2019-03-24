@@ -1,4 +1,4 @@
-github.com/dmigwi/golang-modules/printer v0.0.0-20190324153201-05ffaaecaade h1:7GotLHNEpuvDmApyyNOmOQI0DCqeBlE+bxAqhQ+b250=
-github.com/dmigwi/golang-modules/printer v0.0.0-20190324153201-05ffaaecaade/go.mod h1:EDaUMvJrb6ww6QbYlkrOhKTMrZVQeUQXUL1P1Lq4Y+g=
-github.com/dmigwi/golang-modules/topup v0.0.0-20190324153201-05ffaaecaade h1:xi+Sh6oNZJz0OD9V8CgCsmwEDGY92aFGhnwjqfvb2cA=
-github.com/dmigwi/golang-modules/topup v0.0.0-20190324153201-05ffaaecaade/go.mod h1:VkGJNSEsicPEOcBKoQjdC76EuqDimhmu35A9eaNYqUQ=
+github.com/dmigwi/golang-modules/printer v0.0.0-20190324155542-3a0b46dd5651 h1:8O9GdcnBXEzCAJiAZJkbltzAojtpwbXBvZ5QnfVz6IU=
+github.com/dmigwi/golang-modules/printer v0.0.0-20190324155542-3a0b46dd5651/go.mod h1:q6Nfu1LSUNcMMLrpWKPJRxkXSCs74j2B1EwYQzXt8rE=
+github.com/dmigwi/golang-modules/topup v0.0.0-20190324155542-3a0b46dd5651 h1:vTzWHrOxqM/+BE26+uj7WCvufUCI8rVy/KIprfxghsY=
+github.com/dmigwi/golang-modules/topup v0.0.0-20190324155542-3a0b46dd5651/go.mod h1:VkGJNSEsicPEOcBKoQjdC76EuqDimhmu35A9eaNYqUQ=
