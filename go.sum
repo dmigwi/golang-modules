@@ -1,7 +1,4 @@
-github.com/dmigwi/golang-modules v0.0.0-20190324150454-f0ab74f9cf9d h1:6s3VyncVuBkxwPlYnHChvlL9uM9ewJnnUJW2Re9UenM=
-github.com/dmigwi/golang-modules/printer v0.0.0-20190324152436-d86c7b27c6cf h1:eOGLPx74avpAP7TyKzSE/7nCP9/0ue41NgUPqtxKN8E=
 github.com/dmigwi/golang-modules/printer v0.0.0-20190324153201-05ffaaecaade h1:7GotLHNEpuvDmApyyNOmOQI0DCqeBlE+bxAqhQ+b250=
 github.com/dmigwi/golang-modules/printer v0.0.0-20190324153201-05ffaaecaade/go.mod h1:EDaUMvJrb6ww6QbYlkrOhKTMrZVQeUQXUL1P1Lq4Y+g=
-github.com/dmigwi/golang-modules/topup v0.0.0-20190324152436-d86c7b27c6cf h1:ff7htq1DHFdV3RmQns5hqBpZoY7WV5saig5c6gZkafA=
 github.com/dmigwi/golang-modules/topup v0.0.0-20190324153201-05ffaaecaade h1:xi+Sh6oNZJz0OD9V8CgCsmwEDGY92aFGhnwjqfvb2cA=
 github.com/dmigwi/golang-modules/topup v0.0.0-20190324153201-05ffaaecaade/go.mod h1:VkGJNSEsicPEOcBKoQjdC76EuqDimhmu35A9eaNYqUQ=
