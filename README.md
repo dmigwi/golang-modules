@@ -1,5 +1,23 @@
 # golang-modules
 
+```
+├── LICENSE
+├── README.md
+├── delete
+│   └── drop.go
+├── go.mod
+├── go.sum
+├── main.go
+├── printer
+│   ├── go.mod
+│   └── print.go
+└── topup
+    ├── append.go
+    └── go.mod
+
+3 directories, 10 files
+```
+
 Output
 
 ```

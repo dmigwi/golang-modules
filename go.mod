@@ -1,4 +1,4 @@
-module github.com/dmigwi/golang-modules/v1
+module yes/v1
 
 require (
 	github.com/dmigwi/golang-modules/printer v0.0.0-20190324155542-3a0b46dd5651

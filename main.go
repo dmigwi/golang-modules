@@ -1,9 +1,10 @@
 package main
 
 import (
+	"yes/v1/delete"
+
 	"github.com/dmigwi/golang-modules/printer"
 	"github.com/dmigwi/golang-modules/topup"
-	"github.com/dmigwi/golang-modules/v1/delete"
 )
 
 func main() {
